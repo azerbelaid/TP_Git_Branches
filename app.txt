@@ -1,3 +1,7 @@
 Version initiale de l'application.
 Ajout de la fonctionnalité 1.
+<<<<<<< HEAD
+Ligne modifiée par B.
+=======
 Ligne modifiée par A.
+>>>>>>> 42b006d5cefd71bb6deb7bc649753ff25171ca79
